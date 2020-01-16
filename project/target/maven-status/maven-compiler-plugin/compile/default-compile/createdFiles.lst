@@ -1,0 +1,10 @@
+com\johnabbott\msn\dao\ProductDao.class
+com\johnabbott\msn\service\ProductService.class
+com\johnabbott\msn\model\Product.class
+com\johnabbott\msn\configuration\WebAppInitializer.class
+com\johnabbott\msn\controller\ProductController.class
+com\johnabbott\msn\service\ProductServiceImpl.class
+com\johnabbott\msn\model\Shipping.class
+com\johnabbott\msn\configuration\WebMvcConfig.class
+com\johnabbott\msn\dao\ProductDaoImpl.class
+com\johnabbott\msn\configuration\DatabaseConfiguration.class
